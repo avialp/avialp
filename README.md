@@ -1,7 +1,7 @@
 ### [Hi, Avia here!👋](https://www.linkedin.com/in/aviaprescott/) 
 
 #### About me
-- 📚 Currently a psychology student at York University graduating December 2023 and a graduate from St. Clair College with an Advanced Diploma in Business Administration. 
+- 📚 Currently a psychology student at York University graduating December 2024 and a graduate from St. Clair College with an Advanced Diploma in Business Administration. 
 - 💻 Familiar with SQL, Python, R, HTML, CSS, and JavaScript.
 - 🧠 I love solving complex problems, connecting with others, and learning new skills.
 
